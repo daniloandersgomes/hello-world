@@ -1,3 +1,2 @@
-# hello-world
-Este repositório é para praticar o fluxo GitHub
+# lista_exercicios
 Me chamo Danilo Anders, tenho 19 anos e estou cursando Sistemas de Informação
